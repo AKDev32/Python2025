@@ -1,0 +1,5 @@
+file = open('file.txt', 'w')
+file.write('python\n')
+file.write ('I am learing how to write in the file\n')
+file.write ('Hello how are you\n')
+file.close()
