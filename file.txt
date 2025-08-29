@@ -1,0 +1,3 @@
+python
+I am learing how to write in the file
+Hello how are you
