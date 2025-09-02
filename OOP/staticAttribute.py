@@ -6,3 +6,5 @@ class Person:
 
 p1 = Person("Aman")
 p2 = Person("Kumar")        
+
+print(Person.number_of_people)
